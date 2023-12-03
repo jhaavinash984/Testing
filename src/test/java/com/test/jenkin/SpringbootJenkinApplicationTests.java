@@ -9,7 +9,7 @@ class SpringbootJenkinApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("Before Browser");
+		System.out.println("Auto Start Job");
 		String env = System.getProperty("Browser");
 		System.out.println("Browser is : "+env);
 	}
