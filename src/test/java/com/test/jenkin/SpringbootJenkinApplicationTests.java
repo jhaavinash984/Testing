@@ -1,4 +1,4 @@
-dpackage com.test.jenkin;
+package com.test.jenkin;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
