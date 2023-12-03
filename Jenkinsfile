@@ -23,7 +23,7 @@ pipeline {
 
 		stage('Deploy') {
 			steps {
-			    bat "mvn spring-boot:run"
+			    bat "mvn compile"
 			}
 		}
 	}
