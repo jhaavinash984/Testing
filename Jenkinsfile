@@ -1,9 +1,6 @@
 pipeline {
 	agent any
 
-	environment {
-		mavenHome = tool 'jenkins-maven'
-	}
 
 	tools {
 		jdk JAVA_HOME
