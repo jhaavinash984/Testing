@@ -11,7 +11,7 @@
 	<groupId>com.test</groupId>
 	<artifactId>springboot-jenkin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>springboot-jenkin</name>
 	<description> Spring Boot Jenkin</description>
 	<properties>
